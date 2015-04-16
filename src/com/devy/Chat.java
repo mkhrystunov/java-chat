@@ -3,7 +3,7 @@ package com.devy;
 public class Chat {
 
     // from client
-    public static final int PORTNUM = 9999;
+    public static final int PORTNUM = 11111;
     public static final int MAX_LOGIN_LENGTH = 20;
     public static final char SEPARATOR = '\\';
     public static final char COMMAND = '\\';
